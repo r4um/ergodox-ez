@@ -1,4 +1,4 @@
 # ergodox-ez
 ErgoDox EZ Layout
 
-http://configure.ergodox-ez.com/keyboard_layouts/qwxmro/edit
+https://configure.ergodox-ez.com/ergodox-ez/layouts/9D4Px/latest/0
