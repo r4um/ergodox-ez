@@ -1,4 +1,4 @@
 # ergodox-ez
 ErgoDox EZ Layout
 
-https://configure.ergodox-ez.com/ergodox-ez/layouts/9D4Px/latest/0
+https://configure.zsa.io/ergodox-ez/layouts/qmEzZ/latest
